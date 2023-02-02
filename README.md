@@ -1,4 +1,4 @@
-# polygon
+# Polygon app
 
 ## Project setup
 ```
@@ -20,5 +20,9 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Video DEMO
+https://www.loom.com/share/10915a24f0a9425192ccefdc4d188418
+
+### Ideas to implement
+* Enable the option for choose color line
+* Enable the option for the line thickness
